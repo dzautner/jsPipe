@@ -12,7 +12,7 @@ p([1,6,4,9,3])
  | sort
  | removeLessThenThree
  | doubleAll
- | print // prints [8, 2, 18]
+ | print // prints [8, 12, 18]
  | function (value) { result = value; }
  |pe
 ```
